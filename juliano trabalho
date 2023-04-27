@@ -1,0 +1,60 @@
+juliano hampel                       qi noite
+
+1 - Faça um comparativo entre SOs multitarefas e monotarefas:
+2 - Qual a função de um SO?
+3 - Quais as funções de um Sistema de Arquivos?
+4 - Desenvolva um comparativo entre os sistemas de arquivos incluindo suas versões diferentes:
+5 - O que é um Projeto GNU?
+6 - Elabore um comparativo entre as principais distribuições Linux usadas no mercado de trabalho.
+
+1- Os sistemas monoprogramáveis se caracterizam por permitir que o processador, a memória e os periféricos permaneçam exclusivamente dedicados à execução de um único programa. Nos sistemas multiprogramáveis ou multitarefa, os recursos computacionais são compartilhados entre os diversos usuários e aplicações.
+
+2- Sistema operativo (pt) ou operacional (pt-BR) (em inglês: Operating System - OS) é um programa ou um conjunto de programas cuja função é gerenciar os recursos do sistema (definir qual programa recebe atenção do processador, gerenciar memória, criar um sistema de arquivos, etc.)
+
+3- Um sistema de arquivos é um conjunto de estruturas lógicas e de rotinas, que permitem ao sistema operacional controlar o acesso ao disco rígido. Diferentes sistemas operacionais usam diferentes sistemas de arquivos.
+
+4- As primeiras versões do Windows usavam um sistema de arquivo chamado FAT16. O nome FAT deriva da sigla, em inglês, File Allocation Table. Este sistema de arquivos possui uma tabela que serve como um mapa de utilização do disco.
+O sistema FAT16 trabalha com setores de alocação, também conhecidos como clusters. Cada cluster tem um tamanho específico, dependendo da capacidade total do disco rígido. O grande problema é que este padrãp não lidava com discos maiores que 2 GB e os clusters eram muito grandes, o que acabava ocasionando um desperdício de espaço.
+Para diminuir o desperdício, foi lançada uma atualização, chamada de FAT32. Este sistema de arquivos passou a ser usado no Windows 95 até o Windows Me. Nele, o tamanho dos clusters é menor, desperdiçando menos espaço. No entanto, o padrão 32 trazia um outro problema: era muito lento. Em geral, era 6% mais lento que o sistema FAT16.
+
+5- O projecto GNU foi lançado em Setembro de 1983 por Richard M. Stallman para criar um sistema operativo completo de Software Livre. O trabalho de desenvolvimento de software iniciou-se em Janeiro seguinte. Hoje temos vários sistemas operativos baseados exclusivamente no Software Livre que respeitam a liberdade dos usuários dando a todos o direito de usar, compartilhar, estudar e melhorar o software para qualquer finalidade. 
+
+6- TrueOS
+
+Para quem não conhece, a distro TrueOS é baseada no FreeBSD (estando um pouco desenquadrada deste top) e tem como principal objetivo ser simples de instalar e usar.
+
+Antergos
+
+O Antergos é uma distribuição Linux, de origem espanhola, que é baseada no Arch Linux. Anteriormente conhecida como Cinnarch (uma vez que combinava o ambiente de trabalho gráfico Cinnamon e a base do Arch), esta é uma distribuição moderna que agora oferece vários ambientes gráficos de trabalho (GNOME 3 (por omissão)), Cinnamon, Razor-qt e Xfce.
+
+Fedora
+
+O Fedora é uma distribuição patrocinada pela RedHat e é muito popular por incluir funcionalidades e tecnologias que não se veem em outras distribuições. O Fedora é sistema operativo rápido, estável e potente para uso diário, construído por uma comunidade ao nível mundial. Atualmente, o Fedora encontra-se na versão 28.
+
+mx linux
+
+Para quem procura uma distribuição Linux leve mas com bom suporte, a nossa sugestão vai para a distribuição MX. A performance é simplesmente fantástica e toda a interface é muito bonita e muito bem organizada. A versão atual da distribuição MX Linux é a 17.1.
+
+ Solus
+
+O SoluOS é uma distribuição GNU/Linux moderna para iniciantes neste mundo, que oferece um bom suporte para as tecnologias modernas.
+
+Elementary OS
+
+O elementary OS é uma distribuição baseada no Ubuntu e direcionada para desktops. Esta distribuição tem um fantástico look and feel e garante um bom desempenho.
+
+
+ Debian
+O Debian (base do Ubuntu e outras distribuições conhecidas) foi, sem dúvida, um dos sistemas que marcou o ano de 2017 e que tem vindo a ganhar cada vez mais popularidade. 
+
+ubuntu
+
+Com milhões de utilizadores em todo o mundo, o Ubuntu é o terceiro sistema operativo mais popular do mundo. Esta distribuição GNU/Linux já foi a mais popular do mundo e tem ganho .
+
+Mint
+
+O Linux Mint é uma das distribuições Linux mais populares do mundo. Para quem quer dar os primeiros passos numa boa alternativa ao sistema operativo Windows e também MacOS, esta é normalmente uma das distribuições Linux sugeridas, mas é também uma das que tem maior comunidade. Recentemente foi lançado o Linux Mint 19 “Tara”.
+
+Manjaro
+
+O Manjaro Linux é o novo líder do TOP 10 das distribuições GNU/Linux. É uma das distribuições mais bonitas, que facilita a “entrada” dos utilizadores no mundo do Arch Linux. É uma rolling distro e tem total compatibilidade com os repositório do Arch (AUR – Arch User Repository). Vejam aqui todos os nossos artigos sobre o Manjaro Linux.
